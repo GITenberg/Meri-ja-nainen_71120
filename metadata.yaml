@@ -1,0 +1,28 @@
+_repo: Meri-ja-nainen_71120
+_version: 0.0.1
+creator:
+  author:
+    agent_name: West, Erkki
+    alias: Winter, Ernst Robert Magnus
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '48709'
+    url: http://www.gutenberg.org/2009/agents/48709
+    wikipedia: https://fi.wikipedia.org/wiki/Erkki_West
+description: ''
+gutenberg_issued: '2023-07-05'
+identifiers:
+  gutenberg: '71120'
+language: fi
+pgterms:marc905: 20230704015306west
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aFinland :$bWSOY, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Meri ja nainen
+url: http://www.gutenberg.org/ebooks/71120
